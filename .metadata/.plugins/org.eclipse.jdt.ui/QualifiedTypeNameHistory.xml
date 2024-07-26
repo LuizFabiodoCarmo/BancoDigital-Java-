@@ -2,7 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="bancojava.Conta"/>
-    <fullyQualifiedTypeName name="bancojava.ContaCorrente"/>
     <fullyQualifiedTypeName name="bancojava.ContaPoupanca"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="bancojava.Cliente"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="bancojava.ContaCorrente"/>
 </qualifiedTypeNameHistroy>
